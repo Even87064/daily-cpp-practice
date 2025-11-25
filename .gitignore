@@ -1,0 +1,9 @@
+# build outputs
+main
+main.exe
+*.o
+*.out
+*.log
+
+# backup/old repo
+old_daily_cpp_repo/
