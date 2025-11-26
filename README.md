@@ -48,12 +48,20 @@
 📁 程式碼位置：  
 👉 [`Day03_ValidAnagram`](Day03_ValidAnagram)
 
+---
+
+### **Day04 — Heap 基礎 & Top-K Patterns  
+內容：
+- 理解 priority_queue 的 Max-Heap 與 Min-Heap 運作方式  
+- 搞懂 greater<T> 為何會形成 Min-Heap  
+- 學習 Top-K 維持法：使用固定容量 Min-Heap 保留最大 K 個元素  
+
+📁 程式碼位置：  
+👉 Day04_Heap_TopK_Patterns
+
+
 ## 🎯 未來練習方向
 
-- Day04：Stack / Queue / Hash 題型  
-- 開始導入 Class、OOP  
-- 熟悉更多 STL：`set`, `map`, `priority_queue`, `sort`, `lambda`  
-- 持續累積 C++ 題目與筆記，變成完整面試作品集  
 
 ---
 
