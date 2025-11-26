@@ -28,4 +28,5 @@ int main() {
 
     cout << "Top " << k << " elements: ";
     for (auto x : res) cout << x << " ";
+    cout << endl;
 }
