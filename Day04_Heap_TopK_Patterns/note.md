@@ -7,7 +7,8 @@
 - comparator greater<int> 的運作方式
 - Top-K 問題的標準解法邏輯
 - 使用 min-heap 維持前 K 名元素的策略
-
+- 時間複雜度：O(N log K)
+- 空間複雜度：O(N)
 ---
 
 ## 🧠 核心觀念筆記
