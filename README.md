@@ -38,9 +38,18 @@
 
 ---
 
+### **Day03 – Valid Anagram（字元頻率表 / Hash Table）**
+內容：
+- 使用 `unordered_map<char, int>` 判斷兩字串是否為異位詞
+- 練習 Hash Table 的「抵銷技巧」：s 加、t 減
+- 使用 iterator 檢查所有 key 的 count 是否為 0
+- 思考時間複雜度 O(N) 與空間複雜度 O(1)
+
+📁 程式碼位置：  
+👉 [`Day03_ValidAnagram`](Day03_ValidAnagram)
+
 ## 🎯 未來練習方向
 
-- Day03：Valid Anagram  
 - Day04：Stack / Queue / Hash 題型  
 - 開始導入 Class、OOP  
 - 熟悉更多 STL：`set`, `map`, `priority_queue`, `sort`, `lambda`  
