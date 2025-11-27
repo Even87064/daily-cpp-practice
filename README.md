@@ -59,6 +59,17 @@
 📁 程式碼位置：  
 👉 Day04_Heap_TopK_Patterns
 
+---
+
+### **Day05 — Iterator 失效機制 & Sliding Window（Longest Substring）
+內容：
+- 釐清 vector / map / unordered_map 在 erase() 後 iterator 為何會失效
+- 學會正確寫法：it = container.erase(it) 與 erase(l, r) 的區間刪除語意（左閉右開 [l, r)）
+- 實作 Sliding Window 經典題：Longest Substring Without Repeating Characters，搞- 懂 left / i / used[] 判斷「字元是否在視窗內重複」
+- 第一次在 WSL / Linux 使用 g++ 編譯並執行 C++ 程式，完成從 Windows → Linux C++ 開發流程的接軌
+
+📁 程式碼位置：
+👉 Day05_Iterator
 
 ## 🎯 未來練習方向
 
