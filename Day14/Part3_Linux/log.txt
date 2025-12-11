@@ -1,0 +1,4 @@
+INFO: system start
+WARNING: low battery
+ERROR: fan fail
+info: done
